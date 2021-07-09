@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/srishtipawar/GamerX.git/static/css/main.13a78d25.chunk.css",
+    "main.js": "/srishtipawar/GamerX.git/static/js/main.14a48705.chunk.js",
+    "main.js.map": "/srishtipawar/GamerX.git/static/js/main.14a48705.chunk.js.map",
+    "runtime-main.js": "/srishtipawar/GamerX.git/static/js/runtime-main.8197ca63.js",
+    "runtime-main.js.map": "/srishtipawar/GamerX.git/static/js/runtime-main.8197ca63.js.map",
+    "static/css/2.988c8284.chunk.css": "/srishtipawar/GamerX.git/static/css/2.988c8284.chunk.css",
+    "static/js/2.679f7d5e.chunk.js": "/srishtipawar/GamerX.git/static/js/2.679f7d5e.chunk.js",
+    "static/js/2.679f7d5e.chunk.js.map": "/srishtipawar/GamerX.git/static/js/2.679f7d5e.chunk.js.map",
+    "index.html": "/srishtipawar/GamerX.git/index.html",
+    "precache-manifest.e26dd9e068f4d3601593aee134be49fb.js": "/srishtipawar/GamerX.git/precache-manifest.e26dd9e068f4d3601593aee134be49fb.js",
+    "service-worker.js": "/srishtipawar/GamerX.git/service-worker.js",
+    "static/css/2.988c8284.chunk.css.map": "/srishtipawar/GamerX.git/static/css/2.988c8284.chunk.css.map",
+    "static/css/main.13a78d25.chunk.css.map": "/srishtipawar/GamerX.git/static/css/main.13a78d25.chunk.css.map",
+    "static/js/2.679f7d5e.chunk.js.LICENSE.txt": "/srishtipawar/GamerX.git/static/js/2.679f7d5e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8197ca63.js",
+    "static/css/2.988c8284.chunk.css",
+    "static/js/2.679f7d5e.chunk.js",
+    "static/css/main.13a78d25.chunk.css",
+    "static/js/main.14a48705.chunk.js"
+  ]
+}

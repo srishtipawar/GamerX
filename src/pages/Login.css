@@ -1,0 +1,28 @@
+.login{
+  width: 100%;
+  padding-top:60px;
+  opacity:.9;
+  border-radius: 30px;
+  align-items: center;
+}
+/* https://media.giphy.com/media/3o7bu9PWKQrYUiqvUA/source.gif */
+/* .back{ */
+  /* background-image: url('https://giphy.com/gifs/l4FGrGPtm5ftZP7oY/html5');
+  background-size: cover;
+  height: 100vh;
+  padding:0;
+  margin:0;
+
+  width:100% */
+/* } */
+#videoBG {
+  position: fixed;
+  background-attachment: fixed;
+  z-index: -1;
+  width:100%;     
+  height: auto;
+}
+
+.btn{
+  background-color: lightseagreen !important;
+}

@@ -1,0 +1,7 @@
+:hover {
+  color: inherit;
+  text-decoration: none;
+}
+.dropdown-menu.show{
+  transform: translate3d(-17px,18px,0px) !important;
+}
